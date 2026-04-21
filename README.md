@@ -20,33 +20,41 @@ The main goal of this project is to analyze how different factors influence stud
 
 ## 🔍 Key Insights
 
-### 1. Previous Failures Have the Strongest Impact on G3
-Failures show the strongest negative relationship with the final grade (G3). Students with a higher number of past failures tend to achieve significantly lower final grades.
+### 1. Strong Relationship with Prior Performance (G1 & G2)
+
+There is a very strong positive correlation between previous grades (G1 and G2) and the final grade (G3).
+This indicates that students’ academic performance is highly consistent over time.
 
 ---
 
-### 2. Parental Education Has a Positive Influence
-Both mother's (Medu) and father's (Fedu) education levels show a slight positive relationship with G3, suggesting a supportive home environment may contribute to better performance.
+### 2. Failures as the Strongest Negative Factor
+
+Among all variables, past failures show the most noticeable negative relationship with G3.
+Students with more previous failures tend to achieve lower final grades.
 
 ---
 
-### 3. Study Time Has a Weak Relationship with G3
-Study time shows only a weak positive correlation with G3, indicating that increased study time alone does not strongly guarantee higher performance.
+### 3. Weak Influence of Study Time
+
+Study time shows only a weak positive correlation with G3, suggesting that the quantity of study alone is not a strong predictor of performance.
 
 ---
 
-### 4. Age Has an Indirect Negative Effect
-Age appears to have a negative relationship with G3. However, further analysis suggests this is an indirect effect, as older students tend to have more previous failures, which impacts performance.
+### 4. Minimal Impact of Social and Lifestyle Factors
+
+Variables such as going out with friends (goout) show a very weak relationship with academic performance.
 
 ---
 
-### 5. Absences and Social Life Show Minimal Impact
-Variables such as absences and going out (goout) show very weak relationships with G3, indicating limited direct influence on final grades.
+### 5. Absences Have Limited Predictive Power
+
+Absences show a very weak correlation with G3, indicating that attendance alone is not a strong indicator of final academic performance in this dataset.
 
 ---
 
-### 6. Removing Prior Grades Reveals True Influencing Factors
-Including G1 and G2 creates misleadingly strong correlations with G3. After removing them, the analysis provides a clearer understanding of the actual factors affecting student performance.
+### 6. Important Note on Interpretation
+
+Correlation does not imply causation. Some relationships may be indirect or influenced by other underlying factors (e.g., age and failures).
 
 ---
 
