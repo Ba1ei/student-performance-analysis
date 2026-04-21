@@ -39,22 +39,19 @@ Students with more previous failures tend to achieve lower final grades.
 Study time shows only a weak positive correlation with G3, suggesting that the quantity of study alone is not a strong predictor of performance.
 
 ---
+## 🔍 Key Insights
 
-### 4. Minimal Impact of Social and Lifestyle Factors
+* **G2 is the strongest predictor of final grade (G3)**, showing a very strong positive relationship.
 
-Variables such as going out with friends (goout) show a very weak relationship with academic performance.
+* **G1 and G2 together confirm academic consistency**, where students performing well early tend to maintain their performance.
 
----
+* **Failures have a clear negative impact on performance**, indicating that past academic difficulties strongly affect final outcomes.
 
-### 5. Absences Have Limited Predictive Power
+* **Study time shows only a weak relationship with G3**, suggesting that the quality of studying may matter more than the quantity.
 
-Absences show a very weak correlation with G3, indicating that attendance alone is not a strong indicator of final academic performance in this dataset.
+* **Social behavior (goout) has minimal impact on academic performance**, showing only a very weak negative relationship.
 
----
-
-### 6. Important Note on Interpretation
-
-Correlation does not imply causation. Some relationships may be indirect or influenced by other underlying factors (e.g., age and failures).
+* **Absences also show a weak correlation with G3**, meaning attendance alone is not a strong predictor of final grades in this dataset.
 
 ---
 
